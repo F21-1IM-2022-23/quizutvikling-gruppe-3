@@ -41,6 +41,7 @@ footer {
 
 h1 { /* Denne påvirker stilen til overskriften i headeren */
     font-size: 3rem;
+    color: yellow;
 }
 
 h2 { /* Denne påvirker stilen til Quiz-overskriften "hva kan du om [tema]?" */
