@@ -13,7 +13,7 @@ const questions = [
       { text: "Alternativ 2", correct: false }, //Legg til eller fjern så mange svaralternativ som dere ønsker.
       { text: "Alternativ 3", correct: false } //Siste spørsmålslinje skal ikke ha komma.
     ],
-    imageUrl: 'https://unsplash.it/400/200', //bytt ut med en ny bildeaddresse for hvert spørsmål. 400 og 200 er størrelsen i pixler.
+    imageUrl: 'sphinx.jpg', //bytt ut med en ny bildeaddresse for hvert spørsmål. 400 og 200 er størrelsen i pixler.
     altText: 'Beskrivelse av bilde'
   },
   {
