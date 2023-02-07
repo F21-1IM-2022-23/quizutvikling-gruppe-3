@@ -40,8 +40,14 @@ footer {
 }
 
 h1 { /* Denne påvirker stilen til overskriften i headeren */
-    font-size: 3rem;
-    color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 h2 { /* Denne påvirker stilen til Quiz-overskriften "hva kan du om [tema]?" */
