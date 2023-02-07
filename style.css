@@ -48,6 +48,8 @@ h1 { /* Denne påvirker stilen til overskriften i headeren */
     border: 2px solid black;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: inline-block;
+    width: fit-content;
 }
 
 h2 { /* Denne påvirker stilen til Quiz-overskriften "hva kan du om [tema]?" */
